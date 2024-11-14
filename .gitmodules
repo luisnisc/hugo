@@ -1,0 +1,6 @@
+[submodule "practicaHugo/themes/hugo-coder"]
+	path = practicaHugo/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "practicaHugo/themes/personal-web"]
+	path = practicaHugo/themes/personal-web
+	url = https://github.com/bjacquemet/personal-web.git
