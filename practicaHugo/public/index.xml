@@ -13,7 +13,7 @@
       <link>http://localhost:1313/markdown-explicacion/</link>
       <pubDate>Tue, 10 Oct 2023 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/markdown-explicacion/</guid>
-      <description>&lt;h2 id=&#34;basic-markdown&#34;&gt;Basic Markdown&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Italic&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Code&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;extended-markdown&#34;&gt;Extended Markdown&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tables&lt;/li&gt;&#xA;&lt;li&gt;Footnotes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;graphs&#34;&gt;Graphs&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Diagrams&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;markdown-explicación&#34;&gt;Markdown Explicación&lt;/h1&gt;&#xA;&lt;p&gt;Markdown es un lenguaje de marcado ligero que se utiliza para formatear texto. Fue creado por John Gruber y Aaron Swartz en 2004 con el objetivo de permitir a las personas escribir en un formato de texto plano fácil de leer y escribir, que luego se puede convertir a HTML.&lt;/p&gt;&#xA;&lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;&#xA;&lt;h3 id=&#34;encabezados&#34;&gt;Encabezados&lt;/h3&gt;&#xA;&lt;p&gt;Para crear encabezados, utiliza el símbolo &lt;code&gt;#&lt;/code&gt; seguido de un espacio. La cantidad de &lt;code&gt;#&lt;/code&gt; determina el nivel del encabezado.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
